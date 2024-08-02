@@ -13,15 +13,15 @@
 
 <h3>Connect with me</h3>
 <p align="left" style="text-decoration: none;">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aryan-pandya-90948721b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-pandya-90948721b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-pandya-90948721b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-pandya-90948721b/" height="30" width="40" /></a>
   &nbsp;&nbsp;
-<a href="https://www.leetcode.com/https://leetcode.com/u/aadi-7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aadi-7/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/aadi-7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aadi-7/" height="30" width="40" /></a>
   &nbsp;&nbsp;
 <a href="https://www.naukri.com/code360/profile/Aadi7" target="blank">
   <img align="center" src="https://files.codingninjas.in/new_cn_logo-29829.svg" alt="Coding Ninjas" height="20" width="auto" />
 </a>
   &nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/aryanpandya2310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/aryanpandya2310/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/aryanpandya2310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/aryanpandya2310/" height="30" width="40" /></a>
 </p>
 
 <br> <h3>About Aryan</h3>
