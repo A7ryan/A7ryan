@@ -25,7 +25,7 @@
 &nbsp;&nbsp;
 <a href="https://www.codechef.com/users/charusat_ca145" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="Aryan Pandya Code Chef Profile" height="30" width="40" /></a>
 &nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/aryanpandya2310" target="blank"><img align="center" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="Aryan Pandya Hackerrank Profile" height="30" width="60" /></a>
+<a href="https://www.hackerrank.com/profile/aryanpandya2310" target="blank"><img align="center" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="Aryan Pandya Hackerrank Profile" height="20" width="60" /></a>
 </p>
 
 <br> <h3>About Aryan</h3>
