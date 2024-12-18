@@ -29,6 +29,12 @@
 </p>
 <a href="https://codeforces.com/profile/Aadi.7" target="_blank"><img align="center" src="https://codeforces.com/codeforces.org/s/95880/images/codeforces-sponsored-by-ton.png" alt="Aryan Pandya CodeForces Profile" height="20" width="60" /></a>
 </p>
+<a href="https://www.credly.com/users/aryan-pandya" target="_blank"><img align="center" src="https://cdn.credly.com/assets/structure/logo-6a563f41a66826f3d8d40780cfdab9bd0d56920579d94b927ffe29341f7f2c7e.svg" alt="Aryan Pandya Credly Profile" height="20" width="60" /></a>
+</p>
+<a href="https://www.cloudskillsboost.google/public_profiles/5f2a12c5-4aa9-492e-ac9f-cbb975f1bdf0" target="_blank"><img align="center" src="https://cdn.qwiklabs.com/PGyhmgS3zZncIEGywnx5UXsKwepRRFQ9BhAg%2FWHNrlQ%3D" alt="Aryan Pandya Google Cloud Skills Boost Profile" height="20" width="60" /></a>
+</p>
+
+
 
 <br> <h3>About Aryan</h3>
 Aryan Pandya is a MSc. (IT) student who possess versatile skills in different domain areas in Information Technology (IT) Industry.
