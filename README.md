@@ -12,27 +12,23 @@
 - 📫 How to reach me **aryanpandya2310@gmail.com**
 
 <h3>Connect with me</h3>
-<p align="left" style="text-decoration: none;">
-<a href="https://www.linkedin.com/in/aryan-pandya-90948721b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-pandya-90948721b/" height="30" width="40" /></a>
-  &nbsp;&nbsp;
-<a href="https://leetcode.com/u/aadi-7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Aryan Pandya LeetCode Profile" height="30" width="40" /></a>
-  &nbsp;&nbsp;
-<a href="https://www.naukri.com/code360/profile/Aadi7" target="blank">
-  <img align="center" src="https://files.codingninjas.in/new_cn_logo-29829.svg" alt="Aryan Pandya Coding Ninjas Profile" height="20" width="auto" />
-</a>
-  &nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/user/aryanpandya2310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Aryan Pandya GFG Profile" height="30" width="40" /></a>
-&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/charusat_ca145" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="Aryan Pandya Code Chef Profile" height="30" width="40" /></a>
-&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/aryanpandya2310" target="blank"><img align="center" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="Aryan Pandya Hackerrank Profile" height="20" width="60" /></a>
-</p>
-<a href="https://codeforces.com/profile/Aadi.7" target="_blank"><img align="center" src="https://codeforces.com/codeforces.org/s/95880/images/codeforces-sponsored-by-ton.png" alt="Aryan Pandya CodeForces Profile" height="20" width="60" /></a>
-</p>
-<a href="https://www.credly.com/users/aryan-pandya" target="_blank"><img align="center" src="https://cdn.credly.com/assets/structure/logo-6a563f41a66826f3d8d40780cfdab9bd0d56920579d94b927ffe29341f7f2c7e.svg" alt="Aryan Pandya Credly Profile" height="20" width="60" /></a>
-</p>
-<a href="https://www.cloudskillsboost.google/public_profiles/5f2a12c5-4aa9-492e-ac9f-cbb975f1bdf0" target="_blank"><img align="center" src="https://cdn.qwiklabs.com/PGyhmgS3zZncIEGywnx5UXsKwepRRFQ9BhAg%2FWHNrlQ%3D" alt="Aryan Pandya Google Cloud Skills Boost Profile" height="20" width="60" /></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/aryan-pandya-90948721b/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
+    <td><a href="https://leetcode.com/u/aadi-7/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a></td>
+    <td><a href="https://www.naukri.com/code360/profile/Aadi7" target="blank"><img src="https://files.codingninjas.in/new_cn_logo-29829.svg" alt="Coding Ninjas" height="20" width="auto" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/user/aryanpandya2310/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a></td>
+    <td><a href="https://www.codechef.com/users/charusat_ca145" target="blank"><img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="30" width="40" /></a></td>
+    <td><a href="https://www.hackerrank.com/profile/aryanpandya2310" target="blank"><img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="HackerRank" height="20" width="60" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/profile/Aadi.7" target="_blank"><img src="https://codeforces.com/codeforces.org/s/95880/images/codeforces-sponsored-by-ton.png" alt="CodeForces" height="20" width="60" /></a></td>
+    <td><a href="https://www.credly.com/users/aryan-pandya" target="_blank"><img src="https://cdn.credly.com/assets/structure/logo-6a563f41a66826f3d8d40780cfdab9bd0d56920579d94b927ffe29341f7f2c7e.svg" alt="Credly" height="20" width="60" /></a></td>
+    <td><a href="https://www.cloudskillsboost.google/public_profiles/5f2a12c5-4aa9-492e-ac9f-cbb975f1bdf0" target="_blank"><img src="https://cdn.qwiklabs.com/PGyhmgS3zZncIEGywnx5UXsKwepRRFQ9BhAg%2FWHNrlQ%3D" alt="Google Cloud Skills Boost" height="20" width="60" /></a></td>
+  </tr>
+</table>
 
 
 
