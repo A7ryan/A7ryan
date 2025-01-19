@@ -33,7 +33,7 @@
 
 
 <br> <h3>About Aryan</h3>
-*Someone who can quickly adapt to any tools or technologies and has the expertise on HOW TO MAKE THINGS WORK.*
+Someone who can quickly adapt to any tools or technologies and has the expertise on <strong>HOW TO MAKE THINGS WORK</strong>.
 
 A highly skilled professional with strong debugging and monitoring abilities, thriving on solving complex problems and optimizing systems to enhance performance and reliability. Well-versed in a variety of programming languages, tools, and frameworks, with a constant drive to explore new technologies and create impactful, real-world projects.
 
