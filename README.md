@@ -33,9 +33,11 @@
 
 
 <br> <h3>About Aryan</h3>
-Aryan Pandya is a MSc. (IT) student who possess versatile skills in different domain areas in Information Technology (IT) Industry.
-He is ambitious in his journey towards Cloud Computing, aspiring to Automate the Systems by Implementing Highly Scalable and Multi-tier Architecture. His Proficiency in IoT has made Him to Build Robust IoT Projects, out of which, one was published as Research Paper in Springer - 2023 and the other made to SSIP India Hackathon Grand Finale Round - 2023.
-Moreover, He can work with many Languages, Tools and Frameworks to craft Websites, Mobile Applications, Web Pages and Web Applications. Presently, He is engaged in working towards an AI Model to solve real life Problems.
+*Someone who can quickly adapt to any tools or technologies and has the expertise on HOW TO MAKE THINGS WORK.*
+
+A highly skilled professional with strong debugging and monitoring abilities, thriving on solving complex problems and optimizing systems to enhance performance and reliability. Well-versed in a variety of programming languages, tools, and frameworks, with a constant drive to explore new technologies and create impactful, real-world projects.
+
+Certified AWS Solutions Architect Associate, with hands-on experience in cloud computing and automation. Proficient in IoT, with notable recognition in national hackathons, demonstrating a commitment to continuous learning and innovation.
 <br>
 <br>
 
