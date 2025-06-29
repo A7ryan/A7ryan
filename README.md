@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan Pandya</h1>
 <h3>Cloud and IoT Aficionado</h3>
 
-- 🔭 I’m currently working on **Govt. granted Project**
-  
-- 👀 I’m interested in **Cloud Computing, IoT, Space Science, Python Programming, Machine Learning & Full Stack Web Development**.
-
-- 🌱 I’m currently learning **MEAN, Full Stack**
-
-- 💬 Ask me about **AWS, GCP, Cloud, IoT**
-
+- 🌱 I’m currently working on **CI/CD Tools, GitHub Actions (Self-Hosted Runners), AWS, GCP, Bash Scripting (Automation)**
+- 🌍 Actively exploring scalable, real-world solutions in the world of DevOps, Cloud Computing, and IoT.
+- 🎯 Proven ability to debug, automate, and deploy modern tech solutions using tools like Docker, Kubernetes, AWS, and GCP.
+- 👀 I’m interested in **Cloud Computing, DevOps, IoT, Space Science, Python Programming, Machine Learning & Full Stack Web Development**.
+- 💬 Ask me about **AWS, GCP, Cloud, DevOps IoT**
 - 📫 How to reach me **aryanpandya2310@gmail.com**
 
 <h3>Connect with me</h3>
