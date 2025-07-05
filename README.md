@@ -38,6 +38,17 @@ Certified AWS Solutions Architect Associate, with hands-on experience in cloud c
 <br>
 <br>
 
+
+<br> <h3>GitHub Contributions</h3>
+<p>SOLVED: [windows self-hosted] Running as a service doesn't include user PATH env var</p>
+<a href="https://github.com/actions/runner/issues/2540#issuecomment-3026724121" target="_blank">View</a>
+<br>
+<p>SOLVED: How to run multiple self-hosted runners on a single host #26258</p>
+<a href="https://github.com/orgs/community/discussions/26258#discussioncomment-13659006">VIew</a>
+<br>
+
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
